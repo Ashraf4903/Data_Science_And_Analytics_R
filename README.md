@@ -34,7 +34,7 @@ In this project, I used **Propensity Score Matching (PSM)** to create a balanced
 ---
 
 ##  Featured Project 2: Real Estate Price Simulation
-**File:** `Mini_Project/Real_Estate_Price_Predictorr.R`
+**File:** `Mini_Project/Real_Estate_Price_Predictor.R`
 
 To demonstrate mastery of **Linear Regression logic**, I built a simulation engine that generates synthetic housing market data. This project proves that I can understand the underlying mathematical relationships between variables (Size, Age, Price) without relying on pre-cleaned CSVs.
 
